@@ -34,7 +34,7 @@ The following processes were followed to achieve the desired result:
     e.	Creating a metric object\
     f.	Calculating the recall value\
     g.	Return recall result\
-    8.	Visualising results
+  8.	Visualising results
   9.	Saving Model
   10.	Real Time Testing
 
